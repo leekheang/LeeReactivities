@@ -7,7 +7,9 @@
 *.code-workspace
 bin/
 obj/
-
+*.db
+.DS_Store
+appsettings.json
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
